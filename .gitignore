@@ -1,10 +1,1569 @@
-.DS_Store
-.atom/
-.idea
-.vscode/
-.packages
-.pub/
-build/
-ios/.generated/
-packages
-.flutter-plugins
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1652684659,
+        "country": "France",
+        "city": "Bantzenheim",
+        "countrycode": "FR",
+        "postcode": "68490",
+        "county": "Haut-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "7",
+        "street": "Rue de l'Église",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "hotpink",
+          "iconClass": "Circle",
+          "showLabel": null
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.515917,
+          47.826172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2495192998,
+        "country": "France",
+        "city": "Lampertsloch",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "2",
+        "street": "Route de Pechelbronn",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "Gold",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Apiculteur Dotti Dominique",
+        "description": "Apiculteur: Dotti Dominique\nProduits: Miel\nType: Conventionnelle\nSite: [[https://www.acheteralasource.com/producteur/76975]]\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.818332,
+          48.955794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2630242587,
+        "country": "France",
+        "city": "Salmbach",
+        "countrycode": "FR",
+        "postcode": "67160",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "5",
+        "street": "Rue du Foin",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "Gold",
+          "iconClass": "Circle",
+          "showLabel": null,
+          "labelInteractive": true
+        },
+        "name": "Autour de la noix",
+        "description": "Nom: Autour de la noix\nLabel: Non\nProduits: Huile de noix / Noisette / Cerneaux de noix\nSite: [[https://www.marche-steinseltz.fr/?page_id=410]]\n{{https://www.marche-steinseltz.fr/?page_id=410}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.071023,
+          48.979237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2489442222,
+        "country": "France",
+        "city": "Wingen",
+        "countrycode": "FR",
+        "postcode": "67510",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "7",
+        "street": "Rue des Vosges",
+        "district": "Petit Wingen",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "hotpink",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Aux Sources du Heimbach",
+        "description": "Éleveur: Philippe BILLMANN\nProduits: Truites / Produits transformés\nType: Élevage 100% naturel sans antibiotiques\nSite: [[https://www.sourcesduheimbach.fr/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.alsace-terroir.com%2Fmedias%2Fimages%2Fpartenaires%2F167-aux-sources-du-heimbach-1.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.818259,
+          49.025932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2496223326,
+        "country": "France",
+        "city": "Merkwiller-Pechelbronn",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "12",
+        "street": "Route de Woerth",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "hotpink",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Bergerie Huchot",
+        "description": "Éleveur: Stéphane Huchot\nProduits: Agneaux\nType: Élevage sur paille et en plein air\nSite: [[http://www.agneau.huchot.fr/index.html]]\n{{http://www.agneau.huchot.fr/images/paturage%20058.jpg}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.825806,
+          48.939401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2489442227,
+        "country": "France",
+        "city": "Wingen",
+        "countrycode": "FR",
+        "postcode": "67510",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "8",
+        "street": "Rue de Lembach",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "Gold",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Biosaine Cuisine",
+        "description": "Productrice: Marina Billman\nProduits: Apéritifs / Granolas\nLabel: Bio\nSite: [[https://biosaine-cuisine.fr/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbiosaine-cuisine.fr%2Fwp-content%2Fuploads%2F2017%2F11%2Fslide1-5.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.812744,
+          49.023654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2497593786,
+        "country": "France",
+        "city": "Lobsann",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "4b",
+        "street": "Rue Principale",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "DarkOrange",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Brasserie Lobsann",
+        "description": "Brasseur: Toni Kostovski\nProduits: Bières\nType: Conventionnelle\nSite: [[https://www.visit.alsace/219005868-brasserie-lobsann/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapps.tourisme-alsace.info%2Fphotos%2Flembach%2Fphotos%2F244000990_1.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.846872,
+          48.963126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 256418805,
+        "extent": [
+          7.858969,
+          48.98835,
+          7.860271,
+          48.98773
+        ],
+        "country": "France",
+        "city": "Drachenbronn-Birlenbach",
+        "countrycode": "FR",
+        "postcode": "67160",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "district": "Drachenbronn",
+        "osm_value": "tertiary",
+        "name": "Cave de Cleebourg",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "DarkOrange",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Président: Gilles THEILMANN\nProduits: Vins\nType: Conventionnelle\nSite: [[https://cave-cleebourg.fr/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.visit.alsace%2Fwp-content%2Fuploads%2Flei%2Fpictures%2F219005452-cave-vinicole-de-cleebourg-2.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.859673,
+          48.988092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 303103887,
+        "extent": [
+          7.6866895,
+          48.9755134,
+          7.6881946,
+          48.9750399
+        ],
+        "country": "France",
+        "city": "Windstein",
+        "countrycode": "FR",
+        "postcode": "67110",
+        "locality": "Jaegerthal",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "district": "Jaegerthal",
+        "osm_value": "tertiary",
+        "name": "Chevrerie du Windsteinn - La fée Morgane",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "SkyBlue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Éleveuse: Morgane BALL\nProduits: Fromages\nType: Élevage sur paille et en plein air\nSite: [[https://www.facebook.com/Chevrerie-Du-Windstein-1260458660635139/]]\n{{https://scontent-frt3-2.xx.fbcdn.net/v/t31.18172-8/14409580_1409184635762540_361200834655772730_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=MMw9oEVaxeQAX-8XNbN&_nc_ht=scontent-frt3-2.xx&oh=4e98e5b589a7ab35b4cb2141f77dde2f&oe=60B135C7}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687529,
+          48.975049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 28150722,
+        "extent": [
+          7.9090032,
+          48.9500134,
+          7.9121941,
+          48.9484753
+        ],
+        "country": "France",
+        "city": "Schœnenbourg",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "name": "Chèvrerie Meyer",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "skyblue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Localisation: Schoenenbourg\nÉleveur: Nicolas Meyer\nProduits: Fromages\nSite: [[https://www.facebook.com/chevrerieMeyer/]]\n{{https://scontent-lhr8-1.xx.fbcdn.net/v/t31.18172-8/18121565_1686200581673627_1188424040674205239_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=973b4a&_nc_ohc=thMzToPDR6gAX-BoI6n&_nc_ht=scontent-lhr8-1.xx&oh=81bef47219981430102129a0d351a080&oe=60B0AD0B}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.910879,
+          48.949194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2497593703,
+        "country": "France",
+        "city": "Lobsann",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "17",
+        "street": "Rue des Jardins",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "DarkOrange",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Distillerie Hoeffler",
+        "description": "Distillateur: Jean-Claud Hoeffler\nProduits: Eaux-de-vie\nType: Conventionnelle\nSite: [[https://www.visit.alsace/219006231-distillerie-artisanale-hoeffler/]]\n{{https://static.visit.alsace/wp-content/uploads/lei/pictures/219006231-distillerie-artisanale-hoeffler-1.jpg}}\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.848766,
+          48.960988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2491128469,
+        "country": "France",
+        "city": "Gœrsdorf",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "4",
+        "street": "Rue Principale",
+        "district": "Mitschdorf",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "grey",
+          "iconUrl": "/uploads/pictogram/grocery-24_1.png",
+          "popupShape": "Default",
+          "showLabel": null,
+          "zoomTo": 18
+        },
+        "name": "Épicerie Coopérative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.770887,
+          48.952253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 7223130912,
+        "country": "France",
+        "city": "Steinseltz",
+        "countrycode": "FR",
+        "postcode": "67160",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "shop",
+        "housenumber": "73-75",
+        "street": "Rue du Maire Rupp",
+        "osm_value": "convenience",
+        "name": "Ferme Burger",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Producteurs:  Albert BURGER et Doris BURGER\nProduits: Légumes / Fruits / Jus\nLabel: Bio\nSite: [[https://www.fermeburger.fr/]]\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.932676,
+          49.009344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 243210567,
+        "extent": [
+          7.7606191,
+          48.8988227,
+          7.7661815,
+          48.8979829
+        ],
+        "country": "France",
+        "city": "Durrenbach",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "tertiary",
+        "name": "Ferme chez Claude",
+        "state": "Grand Est",
+        "_umap_options": {
+          "showLabel": null,
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "description": "Producteur: Claude Wendling\nProduits: Légumes / Vente de produits locaux\nType: Conventionnelle\nSite: [[https://ferme-chezclaude.fr/]]\n{{https://ferme-chezclaude.fr/wp-content/uploads/2018/05/asperge-3.jpg}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746611,
+          48.899265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1163641,
+        "extent": [
+          7.5788842,
+          48.8520818,
+          7.6197104,
+          48.8307182
+        ],
+        "country": "France",
+        "city": "Val-de-Moder",
+        "countrycode": "FR",
+        "postcode": "67350",
+        "county": "Bas-Rhin",
+        "type": "district",
+        "osm_type": "R",
+        "osm_key": "boundary",
+        "osm_value": "administrative",
+        "name": "Ferme des Carrières",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "skyblue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Localisation: Pfaffenhoffen\nProducteurs: Association des Amis de la Ferme des Carrières\nProduits: Fromages de vache / Choucroute\nType: Agriculture Biologique\nSite: [[http://ferme-des-carrieres.com/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.helloasso.com%2Fassets%2Fimg%2Fphotos%2F79419.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600493,
+          48.8413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2492873927,
+        "country": "France",
+        "city": "Gœrsdorf",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "44a",
+        "street": "Rue du Moulin",
+        "district": "Mitschdorf",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "SkyBlue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Des Deux Moulins - Schnepp",
+        "description": "Agriculteur: Lionel Schnepp\nProduits: Produits Laitiers / Miel\nType: Conventionnelle\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.la-croix.com%2F350x250%2F2018%2F08%2F06%2F1300960227%2Fvaches-chaleur-6-2018-Mitschdorf-Alsace_0.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.780768,
+          48.955846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "SkyBlue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme du Steinbach",
+        "description": "Éleveurs: Rita STURTZER et Pierre STURTZER\nProduits: Fromages / Yaourts\nType: Élevage sur paille\nSite: [[https://fermedusteinbach.fr/]]\n{{https://fermedusteinbach.fr/wordpress/wp-content/uploads/2016/10/J33A8179-300x200.jpg}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.676117,
+          49.03618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 691687457,
+        "extent": [
+          7.970836,
+          48.9051561,
+          7.970949,
+          48.9044739
+        ],
+        "country": "France",
+        "city": "Hatten",
+        "countrycode": "FR",
+        "postcode": "67690",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "name": "Ferme Faust",
+        "state": "Grand Est",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/star-24-white.png",
+          "iconClass": "Circle",
+          "color": "hotpink",
+          "showLabel": null
+        },
+        "description": "Nom: Ferme Faust\nLabel: Bio\nProduits: Viande porcine\nSite: [[https://www.bienvenue-a-la-ferme.com/grandest/bas-rhin/hatten/ferme/ferme-faust/307074]]\n{{https://www.bienvenue-a-la-ferme.com/img/thumbnails/300_200/faust.jpg?1493053446}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.970949,
+          48.904474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 24070574,
+        "extent": [
+          8.1102851,
+          48.9032286,
+          8.1116756,
+          48.9013657
+        ],
+        "country": "France",
+        "city": "Seltz",
+        "countrycode": "FR",
+        "postcode": "67470",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "secondary",
+        "name": "Ferme Fitterer",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "iconUrl": "/uploads/pictogram/star-24-white.png",
+          "showLabel": null,
+          "labelInteractive": true,
+          "labelDirection": "auto",
+          "popupTemplate": "Default"
+        },
+        "housenumber": "10",
+        "description": "Nom: Ferme Fitterer\nLabel: Bio\nProduits: Fruits / Légumes / Viande\nSite: https://fermefitterer.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11094,
+          48.902241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "hotpink",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Hoeffel",
+        "description": "Éleveur: Ernest HOEFFEL\nProduits: Viande bovine\nType: Reconversion Biologique\nSite: [[http://charolais-hoeffel.fr/]]\n{{http://charolais-hoeffel.fr/wp-content/uploads/2014/02/slide3.png}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.788191,
+          48.885362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2497853178,
+        "country": "France",
+        "city": "Windstein",
+        "countrycode": "FR",
+        "postcode": "67110",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "10",
+        "street": "Rue de Grunenthal",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Maraîchère du Windstein",
+        "description": "Producteurs: Candy et Romuald PFEIFFER\nProduits: Légumes / Fruits / Plants\nType: Agriculture Biologique\nSite: [[https://www.ferme-maraichere-bio-windstein.com/]]\n{{https://static.wixstatic.com/media/849df5_569bd506c9464deaba734feae21b3b95~mv2.jpg/v1/fill/w_1216,h_1012,al_c,q_85,usm_0.66_1.00_0.01/849df5_569bd506c9464deaba734feae21b3b95~mv2.webp}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677374,
+          48.998237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 33116488,
+        "extent": [
+          7.787102,
+          48.9490104,
+          7.7963238,
+          48.9444956
+        ],
+        "country": "France",
+        "city": "Preuschdorf",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "tertiary",
+        "name": "Ferme Mettling",
+        "state": "Grand Est",
+        "_umap_options": {
+          "showLabel": null,
+          "color": "darkviolet",
+          "iconClass": "Circle"
+        },
+        "description": "Producteurs: Pierre Mettling\nProduits: Viande bovine / Agneaux / Brebis / Porcs / Légumes / Fruits\nType: Légumes bio\nSite: [[https://www.facebook.com/Ferme-Mettling-796704557138364/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.gabVUEFC7kznSMqXCC58kQHaEo%26pid%3DApi&f=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790063,
+          48.946501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 189031456,
+        "extent": [
+          7.7178451,
+          48.907953,
+          7.7191025,
+          48.9067015
+        ],
+        "country": "France",
+        "city": "Forstheim",
+        "countrycode": "FR",
+        "postcode": "67580",
+        "county": "Bas-Rhin",
+        "type": "locality",
+        "osm_type": "W",
+        "osm_key": "landuse",
+        "osm_value": "farmyard",
+        "name": "Ferme Meyer",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "hotpink",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Éleveur: Didier MEYER\nProduits: Volailles / Canard / Produits transformés\nType: En conversion biologique\nSite: [[http://www.fermemeyer.fr/]]\n{{http://www.fermemeyer.fr/medias/images/slider/slider-3.png}}\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.718392,
+          48.907475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2623877319,
+        "country": "France",
+        "city": "Riedseltz",
+        "countrycode": "FR",
+        "postcode": "67160",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "8",
+        "street": "Route de Steinseltz",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Ridekel",
+        "description": "Producteurs: Delphine Becan et Eric Heintz\nProduits: Légumes\nLabel: Bio\nSite: [[https://www.lafermerikedel.com/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.radiofrance.fr%2Fs3%2Fcruiser-production%2F2018%2F06%2Fef498bad-512b-4af3-aa77-cb4cf0b3fbb5%2F870x489_maraichers.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.952268,
+          48.995061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2509796213,
+        "country": "France",
+        "city": "Surbourg",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "5",
+        "street": "Rue du Docteur Deutsch",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "hotpink",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Scharrenberger",
+        "description": "Producteurs: Christophe SCHARRENBERGER, Denis SCHARRENBERGER, Stephane SCHARRENBERGER et Charles SIEGEL \nProduits: Viande bovine / Légumes\nLabel: Non\nSite: [[https://ferme-scharrenberger.eatbu.com/?lang=fr#impressions]]\n{{https://cdn.website.dish.co/media/cc/e1/3194938/FERME-SCHARRENBERGER-0D244516-4DB9-4355-88CB-547916732759.jpg}}\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.849388,
+          48.909865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2488332162,
+        "country": "France",
+        "city": "Langensoultzbach",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "62",
+        "street": "Rue Principale",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "BlueViolet",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Sommer",
+        "description": "Producteurs: Jacqueline, Sébastien, Laura et Mathieu SOMMER\nProduits: Légumes / Pâtes / Œufs / Pâtes / Poulets \nType: Agriculture Biologique\nSite: [[https://www.maboutiquefermiere.fr/lafermesommer]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-s-www.dna.fr%2Fimages%2FF817F6CF-84FB-4035-89C4-5BF52D092D38%2FNW_raw%2Fa-la-satisfaction-d-une-clientele-de-plus-en-plus-nombreuse-depuis-un-an-la-famille-sommer-a-choisi-d-installer-un-distributeur-climatise-pour-commercialiser-ses-produits-bio-photo-dna-1573730307.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.734008,
+          48.967688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "SkyBlue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Suss",
+        "description": "Producteur: Thibaut Suss\nProduits: Produits Laitiers / Beurre / Yaourt / Fromages\nType: Artisanal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789392,
+          49.003618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1352942926,
+        "country": "France",
+        "city": "Bouxwiller",
+        "countrycode": "FR",
+        "postcode": "67330",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "43",
+        "street": "Rue de Bouxwiller",
+        "district": "Griesbach-le-Bastberg",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "skyblue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Ferme Tiegarten",
+        "description": "Localisation: Bouxwiller\nProducteurs: Joëlle et Pierre BREHM\nProduits: Lait / Fromages / Yaourts\nType: Agriculture Biologique\nSite: [[http://tiergarten.fr/index.php?page=afficher_module_info.php&id_inf=1]]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.437218,
+          48.815225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 153030009,
+        "extent": [
+          7.7828778,
+          49.0009031,
+          7.7878472,
+          48.9933751
+        ],
+        "country": "France",
+        "city": "Lembach",
+        "countrycode": "FR",
+        "postcode": "67510",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "secondary",
+        "name": "Ferme Vincent Helbringer",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "BlueViolet",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Producteur: Vincent Helbringer\nProduits: Fruits / Légumes / Œufs / Moutons / Vaches\nLabel: Bio\nSite: [[https://www.visit.alsace/219005865-ferme-vincent-helbringer/]]\n{{https://scontent-frt3-1.xx.fbcdn.net/v/t31.18172-8/s960x960/13923857_128242777618781_4766961187471783616_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=e3f864&_nc_ohc=dRYgrEn9qa4AX-8JiKB&_nc_ht=scontent-frt3-1.xx&tp=7&oh=b0ba85425cb1e413b964080fed7795ba&oe=60B1D104}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.785785,
+          48.996816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "burlywood",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Fournil de la Ziegelhutte",
+        "description": "Boulanger: Helbringer Philippe\nProduits: Pains / Brioches\nType: Recettes traditionnelles et cuisson au four à bois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.810503,
+          48.999215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 92039,
+        "osm_type": "R",
+        "extent": [
+          7.7482155,
+          48.9907831,
+          7.8025023,
+          48.9308696
+        ],
+        "country": "France",
+        "osm_key": "place",
+        "countrycode": "FR",
+        "osm_value": "village",
+        "postcode": "67360",
+        "name": "Gœrsdorf",
+        "county": "Bas-Rhin",
+        "state": "Grand Est",
+        "type": "city",
+        "_umap_options": {
+          "color": "Black",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/museum-24_1.png",
+          "showLabel": null,
+          "labelDirection": "auto",
+          "labelInteractive": true
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767087,
+          48.951169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Circle",
+          "color": "Gold",
+          "showLabel": null
+        },
+        "name": "La Cabane à Vrac",
+        "description": "Propriétaire: Anne-Sophie Hoch\nProduits: Vrac / Boisson / Hygiène / Farine\nType: Bio et Conventionnel\nSite: https://www.facebook.com/lacabaneavrac\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-s-www.dna.fr%2Fimages%2F31B7480D-7F91-4E2D-BD59-08502493B267%2FFB1200%2Fphoto-1601390360.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748559,
+          48.933404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2486893352,
+        "country": "France",
+        "city": "Lembach",
+        "countrycode": "FR",
+        "postcode": "67510",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "24",
+        "street": "Rue de Mattstall",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "SkyBlue",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "La Chèvre Rouge Grammes",
+        "description": "Producteur: Bruno Grammes\nProduits: Fromages / Charcuterie\nType: Élevage conventionnel\nSite: [[https://fr-fr.facebook.com/bruno.grammes.7]]\n{{https://scontent-frx5-1.xx.fbcdn.net/v/t1.6435-9/46796961_102902680742191_4624068297472606208_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=rlW2Ofst3qsAX-2LQI1&_nc_ht=scontent-frx5-1.xx&oh=92ebc1db66829c8c1f1c06b36b767836&oe=60AF4763}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783575,
+          48.998579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 4974223921,
+        "country": "France",
+        "city": "Wissembourg",
+        "countrycode": "FR",
+        "postcode": "67160",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "shop",
+        "street": "Rue de la Pépinière",
+        "osm_value": "supermarket",
+        "name": "La Ferme aux sept grains",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "Burlywood",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Paysan-boulanger: Daniel Starck\nProduits: Pain\nLabel: Bio\nSite: [[https://www.lafermeauxseptgrains.com/]]\n{{https://www.lafermeauxseptgrains.com/oktThemes/ra128-s2/images/accueil/1p.jpg}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.944808,
+          49.033014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2497455604,
+        "country": "France",
+        "city": "Kutzenhausen",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "8",
+        "street": "Rue de Feldbach",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "showLabel": null,
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "Le Jardin des Quatre Temps",
+        "description": "Gérante: Laure Hirlemann\nProduits: Plantes / Fleurs / Légumes / Fruits\nType: Non traité\nSite: [[http://www.jardin4temps.com/]]\n{{http://www.jardin4temps.com/images/79.jpg}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.852546,
+          48.930168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2491619521,
+        "country": "France",
+        "city": "Gœrsdorf",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "11",
+        "street": "Rue des Châtaigniers",
+        "district": "Liebfrauenthal",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "burlywood",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Les Délices d'Yves",
+        "description": "Pâtissier: Yves Bruckner\nProduits: Pâtisseries / Viennoiseries\nType: Fait maison\nSite: [[https://www.facebook.com/Les-D%C3%A9lices-dYves-134013440798545/]]\n{{https://scontent-frx5-1.xx.fbcdn.net/v/t1.6435-9/123399740_721389478727602_803255554537627848_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=973b4a&_nc_ohc=v8mR4WYV60IAX9rXkhO&_nc_ht=scontent-frx5-1.xx&oh=ae5a7cfee08b5cc5937aabf6f9a4811d&oe=60AF4CF1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761307,
+          48.955438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 33877043,
+        "extent": [
+          7.7602607,
+          48.952949,
+          7.7671024,
+          48.9507427
+        ],
+        "country": "France",
+        "city": "Gœrsdorf",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "district": "Liebfrauenthal",
+        "osm_value": "residential",
+        "name": "Les Délices de Pascal",
+        "state": "Grand Est",
+        "_umap_options": {
+          "showLabel": null,
+          "color": "Gold",
+          "iconClass": "Circle"
+        },
+        "description": "Confiturier: Pascal LERCH\nProduits: Confitures / Soupes\nType: Artisanal\nSite: [[https://www.lesdelicesdepascal.com/mentions-legales/]]\n{{https://www.lesdelicesdepascal.com/wp-content/uploads/2021/03/Preparation-fraises-12-juin-19-600x600.jpg}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766315,
+          48.951106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2491592529,
+        "country": "France",
+        "city": "Gœrsdorf",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "106",
+        "street": "Route de Woerth",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "hotpink",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Les Escargots des Vosges du Nord",
+        "description": "Éleveur: Christian REEBER\nProduits: Escargots / Produits transformés\nType: Produits frais et beurre AOP\nSite: [[https://granvillage.com/b/7270-les-escargots-des-vosges-du-nord/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.omw1JXALhXg8dMNW8l2KEQHaD4%26pid%3DApi&f=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763452,
+          48.949123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 179715717,
+        "extent": [
+          7.86885,
+          48.7879549,
+          7.8777674,
+          48.7750345
+        ],
+        "country": "France",
+        "city": "Oberhoffen-sur-Moder",
+        "countrycode": "FR",
+        "postcode": "67240",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "tertiary",
+        "name": "Les Jardins d'Altaïr",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Localisation: Oberhoffen sur Moder\nProducteurs: Luc et Tharcisse DE GERDELLE\nProduits: Légumes / Fruits\nSite: [[https://www.facebook.com/jardinsdaltair/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.lf_6YkmBYtg3Gzsm6_E3RgHaE8%26pid%3DApi&f=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.873814,
+          48.780738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2651663456,
+        "country": "France",
+        "city": "Rittershoffen",
+        "countrycode": "FR",
+        "postcode": "67690",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "20",
+        "street": "Rue Principale",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Les Jardins de Céline",
+        "description": "Localisation: Rittershoffen\nProductrice: Fabienne Aimé\nProduits: Légumes / Plantes\nType: Agriculture Biologique\nSite: [[https://www.facebook.com/Le-jardin-de-Celine-241976016380965/]]\n{{https://scontent-lhr8-2.xx.fbcdn.net/v/t1.6435-9/37855907_279876902590876_4173456984659460096_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=973b4a&_nc_ohc=bH_of8rC8cUAX8tT8Qj&_nc_ht=scontent-lhr8-2.xx&oh=65f64866e8a0aa627659ceb9f2b47ae8&oe=60B21E49}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.948901,
+          48.904061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2622469207,
+        "country": "France",
+        "city": "Steinseltz",
+        "countrycode": "FR",
+        "postcode": "67160",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "37",
+        "street": "Rue du Maire Rupp",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Les Vergers Hecky",
+        "description": "Producteur: Rudy Hecky\nProduits: Fruits / Jus\nType: Agriculture intégrée\nSite: [[https://www.bienvenue-a-la-ferme.com/grandest/bas-rhin/steinseltz/ferme/les-vergers-hecky/160327]]\n{{https://www.bienvenue-a-la-ferme.com/img/thumbnails/416_254/photo_hecky.jpg?1493068041}}\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.92908,
+          49.011332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2734407775,
+        "country": "France",
+        "city": "Betschdorf",
+        "countrycode": "FR",
+        "postcode": "67660",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "2",
+        "street": "Rue du Docteur Deutsch",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "showLabel": null,
+          "labelInteractive": true,
+          "color": "White",
+          "iconClass": "Circle"
+        },
+        "name": "Manufacture La Cigogne",
+        "description": "Nom: Manufacture La Cigogne\nLabel: Non\nProduits: Savons / Bougies / Senteurs / Broderie\nSite: http://www.manufacture-la-cigogne.fr/\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.uvkylY4nlu7QBpSzCjJ3LQHaEj%26pid%3DApi&f=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.902023,
+          48.898675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2486963398,
+        "country": "France",
+        "city": "Lembach",
+        "countrycode": "FR",
+        "postcode": "67510",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "13",
+        "street": "Rue de Pfaffenbronn",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "Gold",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Moulin à Huile Lembach",
+        "description": "Propriétaire: Chrétien JAMING\nProduits: Huiles\nType: Non traité\nSite: [[https://www.lembach.fr/mairie/?page_id=316]]\n{{https://www.lembach.fr/mairie/wp-content/uploads/2012/05/moulin.jpg}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.793591,
+          49.000638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1854727814,
+        "country": "France",
+        "city": "Hoffen",
+        "countrycode": "FR",
+        "postcode": "67250",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "13",
+        "street": "Rue de la Forêt",
+        "district": "Heckenmuehle",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "BurlyWood",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Moulin Waldmuhle",
+        "description": "Producteur: Rémi Jung\nProduits: Farines\nLabel: Bio\nSite: [[https://fr-fr.facebook.com/MoulinWaldmuhle]]\n{{https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmarche-steinseltz.fr%2Fwp-content%2Fuploads%2F2015%2F06%2FIMG_9879c.jpg&f=1&nofb=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.94812,
+          48.932379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2734407742,
+        "country": "France",
+        "city": "Betschdorf",
+        "countrycode": "FR",
+        "postcode": "67660",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "10",
+        "street": "Rue Woglers",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "DarkViolet",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Nature Lich",
+        "description": "Nom: Nature Lich\nLabel: Bio\nProduits: Légumes / Viandes / Boissons / Produits manufacturés\nSite: [[https://naturelich.fr/fr]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MknC9GgJz3CIszW_v2SOgAHaE8%26pid%3DApi&f=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.919949,
+          48.899215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 2492811586,
+        "country": "France",
+        "city": "Dieffenbach-lès-Wœrth",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "10",
+        "street": "Route de Woerth",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "S'Bureladel - Ferme Rosenfelder",
+        "description": "Producteurs: Caroline et Thomas Rosenfelder\nProduits: Légumes / Fruits\nType: Agriculture Biologique\nSite: https://www.facebook.com/SBureladel/?__xts__[0]=68.ARD6ZbTqJfCAi6ZDTTu7fQRe9mV8mBj7RTXRKLjZ__IxhB6ngPMlUumwBi4jPORWdb_NbLNaBUwOs_j9_E0Sv5v8mTUY_Z02q8e_UbX4vkOX8wXvUAZjAdwCs5ykR1rjyIkDf2E\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yp7N-MWvA1DsOtOn7M7WHAHaJ4%26pid%3DApi&f=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.776454,
+          48.935623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "White",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Savons Wagner",
+        "description": "Productrice: Catherine Wagner\nProduits: Savons / Cosmétiques\nType: Artisanal au lait d’ânesse\n\n\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.769759,
+          48.952254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 6021874613,
+        "country": "France",
+        "city": "Sturzelbronn",
+        "countrycode": "FR",
+        "postcode": "57230",
+        "county": "Moselle",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "4",
+        "street": "Rue de la Hardt",
+        "district": "Hardt",
+        "osm_value": "house",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "name": "Vegetal Respekt",
+        "description": "Localisation: Sturzelbronn\nProducteur: Dominique LEPPERT\nProduits: Légumes / Fruits\nType: Agriculture Biologique\nSite: [[https://vegetalrespekt.com/]]\n{{https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.G4fQJcDx2oqZwwCVEJ55aAHaFj%26pid%3DApi&f=1}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600737,
+          49.050843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 33182340,
+        "extent": [
+          7.7652727,
+          48.9160669,
+          7.7654669,
+          48.9146539
+        ],
+        "country": "France",
+        "city": "Gunstett",
+        "countrycode": "FR",
+        "postcode": "67360",
+        "county": "Bas-Rhin",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "name": "Verger Conservatoire de Poires",
+        "state": "Grand Est",
+        "_umap_options": {
+          "color": "Gold",
+          "iconClass": "Circle",
+          "showLabel": null
+        },
+        "description": "Propriétaires: FFNWE (FRUITS FLEURS ET NATURE DE WOERTH ET ENVIRONS)\nProduits: Miel / Fruits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765452,
+          48.915468
+        ]
+      }
+    }
+  ]
+}
